@@ -5,7 +5,7 @@ from typing import List
 PROJECT_NAME="Fraud-Detection"
 VERSION="0.0.2"
 AUTHOR="Srinivas"
-DESCRIPTION="This is the First Machine Learing Project"
+DESCRIPTION="This is the Second Machine Learing Project"
 REQUIREMENT_FILE_NAME="requirements.txt"
 
 HYPHEN_E_DOT = "-e ."
