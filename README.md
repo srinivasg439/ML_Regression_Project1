@@ -50,7 +50,7 @@ git remote -v
 ----------------------------------------------------------
 HEROKU_EMAIL = srinivasg439@gmail.com
 HEROKU_API_KEY = <>
-HEROKU_APP_NAME = ml-regression-app1
+HEROKU_APP_NAME = ml-classification-app1
 
 
 

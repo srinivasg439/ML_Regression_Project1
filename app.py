@@ -13,7 +13,7 @@ def index():
         banking = BankingException(e,sys)
         logging.info(banking.error_message)
         logging.info("We are testing logging module")
-    return "CI CD pipeline has been established."
+    return "CICD pipeline has been established."
 
 if __name__=="__main__":
     app.run(debug=True)
