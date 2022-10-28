@@ -52,5 +52,13 @@ HEROKU_EMAIL = srinivasg439@gmail.com
 HEROKU_API_KEY = <>
 HEROKU_APP_NAME = ml-classification-app1
 
+To Install ipykernel
+-----------------
 
+pip install ipykernel
+
+To install yaml file
+--------------------
+
+pip insstall pyYAML
 
